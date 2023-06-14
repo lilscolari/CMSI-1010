@@ -1,0 +1,14 @@
+*** PS3 Notebook ***
+Q1: Notes complete!
+Q2: All outputs correct!
+Q3: All tests passed!
+Q4 Part A: All tests passed!
+Q4 Part B: All tests passed!
+Q4 Part C: Looks good!
+Q5 Part A: Greeting code looks good!
+Q5 Part B: Looks good!
+Q6: Acronym code works!
+(100 / 100)
+
+Submitted 1 day early: +1 EC!
+Total Score: 101 / 100

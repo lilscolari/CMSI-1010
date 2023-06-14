@@ -1,0 +1,102 @@
+Luke, Julian, Cameron
+CMSI 1010
+
+
+Project Proposal:
+
+Outline:
+
+Cookie Clicker type game where a user clicks a cookie to accumulate more
+
+Minimum:
+Need a counter to go up when you click over an object
+Win game at x amount of cookies
+Maximum:
+Tons of upgrades/achievements to enhance game
+Idle progression?
+Allow for game to progress infinitely
+Prestige function if game is beaten?
+
+
+Timeline:
+
+Have a more detailed and fleshed out outline by the end of the week
+
+Preferably, we should have the base done by 11/25/22 to have time to work on the extra upgrades
+
+Last week of November: add comments, condense code, polish code, debug multiple scenarios
+
+First week of December: work on presentation while we are working on adding the upgrades/achievements
+
+Initial PyGame Window:
+
+
+Classes:
+
+Our project will have a shop class. Contains methods for each upgrade.
+
+We will have a cookie object, adds cookies when clicked.
+
+We will have button objects relating to upgrades
+
+We will be using PyGame and PyCharm
+
+
+Project Milestone:
+	Our project is on time. We never really added more detail to our outline, but we all have the same vision and we all
+know where our project is headed and what we want to do. Our code has a suggestions section so we can remember what to
+add and potentially add more if we have time. We met last week’s milestones. Our base was more than done. We have a few
+more functions to write, but for the most part, we are making good progress. This week's milestones were to add
+comments, condense the code code, polish the code, and debug multiple scenarios. We have indeed added comments, our
+code has been condensed for the most part, and the code has been polished. We still need to debug a few more scenarios
+but that is not a worry at this time.
+    So far we have implemented a way to when we click on the cookie, a counter goes up. On top of that, there are also
+six different upgrades that impact the counter such as click upgrades or idle upgrades. The click upgrades impact how
+much the counter goes up on each click while the idle upgrades increment the counter over time. We currently have music
+and sound effects and are working on implementing it into the game. In the future, we need to make the game look more
+aesthetically pleasing. So far the progress has been going well and we will most likely be able to implement and polish
+more things before the final deadline.
+
+
+
+As of submitting the project:
+    Our project is a fully functional game that has been play-tested through multiple scenarios. The game has a win
+condition and win screen. The game has 11 different upgrades that boost your cookie income. The project has 4 different
+classes that each have different functions and variables. The project has working music and sound effects. We have met
+our goals. Our vision has come to life and our original intentions were not altered except for the exception of two goals
+we had originally whichy can be viewed in main.py.
+
+
+Which team member did what?
+Julian:
+- Put initial code into classes (Shop, Music)
+- Condensed code
+- Added tick system for idle income
+- Commented every comment found in code
+- project_timeline.txt file
+Luke:
+- Wrote initial code
+- Put initial code into classes (Counter)
+- Added polish
+- Chose images
+- Organized code
+- README.md file
+Cameron:
+- Made sound effects
+- Wrote initial code
+- Put initial code into classes (Shop)
+- Added polish
+- README.md file
+- outside_libraries file
+
+
+
+Difficulties with the project and what we took away:
+    Our major difficulty was that the original project was coded without classes and functions. This meant we had to
+spend a lot of time redefining variables and creating functions and classes to eliminate repeated code. We also had
+trouble with lag, but Julian created a clock that fixed this issue. We had issues working with GitHub branches, so we
+ultimately just worked over screenshare on Discord. We also found issues relating to accessing variables from different
+classes. This process took troubleshooting, debugging, and a bit of review from previous lessons taught throughout the
+year. We learned that Python, although not a traditional favorite for video game creation, is capable of creating fun
+and unique games. We also took away an important aspect of game design: brainstorming. You should not begin working on
+a project without having a fully thought out plan.

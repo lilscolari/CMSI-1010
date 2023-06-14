@@ -1,0 +1,9 @@
+Part 1: No work needed for this section.
+Part 2: No work needed for this section.
+Part 3: No work needed for this section.
+Part 4: No work needed for this section.
+Part 5: No work needed for this section.
+Part 6: Code runs, but missing stack diagram explanation. +1
+
+Lab Points: 1 out of 1
+Lab Final Score: 3 out of 4

@@ -1,0 +1,2 @@
+# LMU CMSI 1010 Laboratory Notebook Repository
+Welcome to your LMU CMSI 1010 laboratory notebook repository! Use this repository to submit exercises and assignments that are shared using [Jupyter notebooks](https://jupyter.org/). Those notebooks, as well as instructions for how to work with them (and create your own copies), can be found on [this repository](https://github.com/lmu-cmsi-1010/lab-notebooks-original). Make sure to peruse those instructions and related links prior to diving in.

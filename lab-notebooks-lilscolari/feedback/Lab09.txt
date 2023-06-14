@@ -1,0 +1,14 @@
+Part 1: No work needed for this section.
+Part 2: Great job! Your code looks good and runs. +1
+Part 3: Awesome! Your assertions all pass. +1
+Part 4: Great job! Your code looks good and runs. +1
+Part 5: No work needed for this section.
+Part 6: Great job! Your code looks good and runs. +1
+Part 7: No work needed for this section.
+Part 8: Great job! Your code looks good and runs. +1
+Part 9: Great job! Your code looks good and runs. +1
+Part 10: No work needed for this section.
+Part 11: No work needed for this section.
+
+Lab Points: 6 out of 6
+Lab Final Score: 4 out of 4

@@ -1,0 +1,8 @@
+Part 1: Great job! Your code looks good and runs. +1
+Part 2: Awesome! Your assertions all pass. +1
+Part 3: Great job! Your code looks good and runs. +1
+Part 4: No work needed for this section.
+Part 5: No work needed for this section.
+
+Lab Points: 3 out of 3
+Lab Final Score: 4 out of 4

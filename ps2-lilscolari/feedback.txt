@@ -1,0 +1,10 @@
+*** PS2 Notebook ***
+Q1: Looks good!
+Q2 (e): str_version uses disallowed import (-4)
+Q3: Looks good!
+Q4: Stack diagram looks good!
+Q5: Guess number game works!
+(96 / 100)
+
+Submitted 3 days early: +3 EC!
+Total Score: 99 / 100

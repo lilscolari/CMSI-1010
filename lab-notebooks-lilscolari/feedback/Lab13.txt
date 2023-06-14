@@ -1,0 +1,7 @@
+Part 1: Great job! Your code looks good and runs. +1
+Part 2: Great job! Your code looks good and runs. +1
+Part 3: Great job! Your code looks good and runs. +1
+Part 4: Great job! Your code looks good and runs. +1
+
+Lab Points: 4 out of 4
+Lab Final Score: 4 out of 4

@@ -1,0 +1,24 @@
+*** PS6 Notes (EC) ***
+Reading notes complete!
+(3 / 0)
+
+*** Inheritance Questions ***
+Looks good!
+(30 / 30)
+
+*** HighRollerGame ***
+DiceSet.roll_die() does not access the ith die (-2)
+DiceSet.get_current_values() does not access the value of each die (-2)
+"use 5 5" does not print the descriptor and new dice set (-2)
+roll all does not print the new dice set (-2)
+"roll 1" does not print the new dice set (-2)
+help command does not print help message with all commands (-2)
+EC matches() method throws   File "/var/folders/h3/qckpt6tj60x1n4qy8fhsf6lc0000gn/T/pythonShellFile4678812862.py", line 215
+    print("I don't understand, type 'h' or 'help' for a list of commands."
+         ^
+SyntaxError: '(' was never closed
+
+EC quit command works! (+5)
+(63 / 70)
+
+Total Score: 96 / 100

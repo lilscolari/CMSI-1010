@@ -1,0 +1,26 @@
+*** PS4 Notes ***
+Reading notes look good!
+(15 / 15)
+
+*** midpoint.py ***
+midpoint([44, 22, 65]) does not produce expected result 22 (-2)
+midpoint([34, 42, 15, 24, 78]) does not produce expected result 15 (-2)
+midpoint([11, 55, 9, 67, 5, 92, 20]) does not produce expected result 67 (-2)
+(19 / 25)
+
+*** not_equal.py ***
+not_equal(5, 5) produces expected result False ✓
+not_equal(5, 6) produces expected result True ✓
+not_equal(5, 4) produces expected result True ✓
+Great job!
+(25 / 25)
+
+*** mousepoint.py (EC) ***
+Nice job!
+(10 / 0)
+
+*** Movie Mixup ***
+Looks good!
+(35 / 35)
+
+Total Score: 104 / 100

@@ -1,0 +1,63 @@
+Cameron Scolari
+
+Sequence of Commands:
+
+cd /c/Users/Camer/OneDrive/Desktop/LMU/Semester\ 1/Computer\ Programming\ and\ Lab/ps4-lilscolari/movies
+cd /c/Users/Camer/OneDrive/Desktop/LMU/Semester\ 1/Computer\ Programming\ and\ Lab/ps4-lilscolari/movies/adventure/TheExorcist
+mv JulieAndrews.jpg /c/Users/Camer/OneDrive/Desktop/LMU/Semester\ 1/Computer\ Programming\ and\ Lab/ps4-lilscolari/movies/scifi/TheSoundOfMusic
+mv TyraBanks.jpg /c/Users/Camer/OneDrive/Desktop/LMU/Semester\ 1/Computer\ Programming\ and\ Lab/ps4-lilscolari/movies/horror/CoyoteUgly
+cd /c/Users/Camer/OneDrive/Desktop/LMU/Semester\ 1/Computer\ Programming\ and\ Lab/ps4-lilscolari/movies/adventure/BlackPanther
+mv LindaCardellini.jpg /c/Users/Camer/OneDrive/Desktop/LMU/Semester\ 1/Computer\ Programming\ and\ Lab/ps4-lilscolari/movies/comedy/TheCurseOfLaLlorona
+mv MindyCohn.jpg /c/Users/Camer/OneDrive/Desktop/LMU/Semester\ 1/Computer\ Programming\ and\ Lab/ps4-lilscolari/movies/animation/VioletTendencies
+cd /c/Users/Camer/OneDrive/Desktop/LMU/Semester\ 1/Computer\ Programming\ and\ Lab/ps4-lilscolari/movies/adventure/DoctorZhivago
+mv LetitiaWright.jpg /c/Users/Camer/OneDrive/Desktop/LMU/Semester\ 1/Computer\ Programming\ and\ Lab/ps4-lilscolari/movies/adventure/BlackPanther
+cd /c/Users/Camer/OneDrive/Desktop/LMU/Semester\ 1/Computer\ Programming\ and\ Lab/ps4-lilscolari/movies/adventure
+mv TheExorcist /c/Users/Camer/OneDrive/Desktop/LMU/Semester\ 1/Computer\ Programming\ and\ Lab/ps4-lilscolari/movies/horror
+cd /c/Users/Camer/OneDrive/Desktop/LMU/Semester\ 1/Computer\ Programming\ and\ Lab/ps4-lilscolari/movies/animation/ET
+mv ChristopherPlummer.jpg /c/Users/Camer/OneDrive/Desktop/LMU/Semester\ 1/Computer\ Programming\ and\ Lab/ps4-lilscolari/movies/scifi/TheSoundOfMusic
+cd /c/Users/Camer/OneDrive/Desktop/LMU/Semester\ 1/Computer\ Programming\ and\ Lab/ps4-lilscolari/movies/drama/Jaws
+mv DrewBarrymore.jpeg /c/Users/Camer/OneDrive/Desktop/LMU/Semester\ 1/Computer\ Programming\ and\ Lab/ps4-lilscolari/movies/animation/ET
+cd /c/Users/Camer/OneDrive/Desktop/LMU/Semester\ 1/Computer\ Programming\ and\ Lab/ps4-lilscolari/movies/horror/CoyoteUgly
+mv HenryThomas.jpg /c/Users/Camer/OneDrive/Desktop/LMU/Semester\ 1/Computer\ Programming\ and\ Lab/ps4-lilscolari/movies/animation/ET
+mv HarryStockwell.jpg /c/Users/Camer/OneDrive/Desktop/LMU/Semester\ 1/Computer\ Programming\ and\ Lab/ps4-lilscolari/movies/drama/SnowWhiteAndTheSevenDwarfs
+cd /c/Users/Camer/OneDrive/Desktop/LMU/Semester\ 1/Computer\ Programming\ and\ Lab/ps4-lilscolari/movies/animation
+cp -r ET /c/Users/Camer/OneDrive/Desktop/LMU/Semester\ 1/Computer\ Programming\ and\ Lab/ps4-lilscolari/movies/drama
+cp -r ET /c/Users/Camer/OneDrive/Desktop/LMU/Semester\ 1/Computer\ Programming\ and\ Lab/ps4-lilscolari/movies/adventure
+mv ET /c/Users/Camer/OneDrive/Desktop/LMU/Semester\ 1/Computer\ Programming\ and\ Lab/ps4-lilscolari/scifi
+cd /c/Users/Camer/OneDrive/Desktop/LMU/Semester\ 1/Computer\ Programming\ and\ Lab/ps4-lilscolari/movies/comedy
+mv TheCurseOfLaLlorona /c/Users/Camer/OneDrive/Desktop/LMU/Semester\ 1/Computer\ Programming\ and\ Lab/ps4-lilscolari/horror
+cd /c/Users/Camer/OneDrive/Desktop/LMU/Semester\ 1/Computer\ Programming\ and\ Lab/ps4-lilscolari/horror/TheCurseOfLaLlorona
+mv RoyScheider.jpg /c/Users/Camer/OneDrive/Desktop/LMU/Semester\ 1/Computer\ Programming\ and\ Lab/ps4-lilscolari/drama/Jaws
+rm /c/Users/Camer/OneDrive/Desktop/LMU/Semester\ 1/Computer\ Programming\ and\ Lab/ps4-lilscolari/horror/TheCurseOfLaLlorona/YulBrynner.jpg
+cd /c/Users/Camer/OneDrive/Desktop/LMU/Semester\ 1/Computer\ Programming\ and\ Lab/ps4-lilscolari/movies/horror/Titanic
+mv OmarSharif.jpg /c/Users/Camer/OneDrive/Desktop/LMU/Semester\ 1/Computer\ Programming\ and\ Lab/ps4-lilscolari/movies/adventure/DoctorZhivago
+mv RobertShaw.jpg /c/Users/Camer/OneDrive/Desktop/LMU/Semester\ 1/Computer\ Programming\ and\ Lab/ps4-lilscolari/movies/drama/Jaws
+cd /c/Users/Camer/OneDrive/Desktop/LMU/Semester\ 1/Computer\ Programming\ and\ Lab/ps4-lilscolari/movies/horror
+mv Titanic /c/Users/Camer/OneDrive/Desktop/LMU/Semester\ 1/Computer\ Programming\ and\ Lab/ps4-lilscolari/movies/drama
+cp -r CoyoteUgly /c/Users/Camer/OneDrive/Desktop/LMU/Semester\ 1/Computer\ Programming\ and\ Lab/ps4-lilscolari/movies/drama
+mv CoyoteUgly /c/Users/Camer/OneDrive/Desktop/LMU/Semester\ 1/Computer\ Programming\ and\ Lab/ps4-lilscolari/movies/comedy
+cd /c/Users/Camer/OneDrive/Desktop/LMU/Semester\ 1/Computer\ Programming\ and\ Lab/ps4-lilscolari/movies/adventure
+mv DoctorZhivago /c/Users/Camer/OneDrive/Desktop/LMU/Semester\ 1/Computer\ Programming\ and\ Lab/ps4-lilscolari/movies/drama
+cd /c/Users/Camer/OneDrive/Desktop/LMU/Semester\ 1/Computer\ Programming\ and\ Lab/ps4-lilscolari/movies/animation/VioletTendencies
+mv SidneyPoitier.jpg /c/Users/Camer/OneDrive/Desktop/LMU/Semester\ 1/Computer\ Programming\ and\ Lab/ps4-lilscolari/movies/comedy/InTheHeatOfTheNight
+cd /c/Users/Camer/OneDrive/Desktop/LMU/Semester\ 1/Computer\ Programming\ and\ Lab/ps4-lilscolari/movies/animation
+cp -r VioletTendencies /c/Users/Camer/OneDrive/Desktop/LMU/Semester\ 1/Computer\ Programming\ and\ Lab/ps4-lilscolari/movies/drama
+mv VioletTendencies /c/Users/Camer/OneDrive/Desktop/LMU/Semester\ 1/Computer\ Programming\ and\ Lab/ps4-lilscolari/movies/comedy
+cd /c/Users/Camer/OneDrive/Desktop/LMU/Semester\ 1/Computer\ Programming\ and\ Lab/ps4-lilscolari/movies/comedy/InTheHeatOfTheNight
+mv EllenBurstyn.jpg /c/Users/Camer/OneDrive/Desktop/LMU/Semester\ 1/Computer\ Programming\ and\ Lab/ps4-lilscolari/movies/horror/TheExorcist
+mv JulieChristie.jpeg /c/Users/Camer/OneDrive/Desktop/LMU/Semester\ 1/Computer\ Programming\ and\ Lab/ps4-lilscolari/movies/drama/DoctorZhivago
+cd /c/Users/Camer/OneDrive/Desktop/LMU/Semester\ 1/Computer\ Programming\ and\ Lab/ps4-lilscolari/movies/comedy
+mv InTheHeatOfTheNight /c/Users/Camer/OneDrive/Desktop/LMU/Semester\ 1/Computer\ Programming\ and\ Lab/ps4-lilscolari/movies/drama
+cd /c/Users/Camer/OneDrive/Desktop/LMU/Semester\ 1/Computer\ Programming\ and\ Lab/ps4-lilscolari/movies/drama
+cp -r Jaws /c/Users/Camer/OneDrive/Desktop/LMU/Semester\ 1/Computer\ Programming\ and\ Lab/ps4-lilscolari/movies/comedy
+cp -r Jaws /c/Users/Camer/OneDrive/Desktop/LMU/Semester\ 1/Computer\ Programming\ and\ Lab/ps4-lilscolari/movies/adventure
+cd /c/Users/Camer/OneDrive/Desktop/LMU/Semester\ 1/Computer\ Programming\ and\ Lab/ps4-lilscolari/movies/drama/SnowWhiteAndTheSevenDwarfs
+rm /c/Users/Camer/OneDrive/Desktop/LMU/Semester\ 1/Computer\ Programming\ and\ Lab/ps4-lilscolari/movies/drama/SnowWhiteAndTheSevenDwarfs/CharltonHeston.jpg
+mv KateWinslet.webp /c/Users/Camer/OneDrive/Desktop/LMU/Semester\ 1/Computer\ Programming\ and\ Lab/ps4-lilscolari/movies/drama/Titanic
+cd /c/Users/Camer/OneDrive/Desktop/LMU/Semester\ 1/Computer\ Programming\ and\ Lab/ps4-lilscolari/movies/drama
+mv SnowWhiteAndTheSevenDwarfs /c/Users/Camer/OneDrive/Desktop/LMU/Semester\ 1/Computer\ Programming\ and\ Lab/ps4-lilscolari/movies/animation
+cd /c/Users/Camer/OneDrive/Desktop/LMU/Semester\ 1/Computer\ Programming\ and\ Lab/ps4-lilscolari/movies/scifi/TheSoundOfMusic
+mv AdrianaCaselotti.jpg /c/Users/Camer/OneDrive/Desktop/LMU/Semester\ 1/Computer\ Programming\ and\ Lab/ps4-lilscolari/movies/animation/SnowWhiteAndTheSevenDwarfs
+mv MaxVonSydow.jpg /c/Users/Camer/OneDrive/Desktop/LMU/Semester\ 1/Computer\ Programming\ and\ Lab/ps4-lilscolari/movies/horror/TheExorcist
+cd /c/Users/Camer/OneDrive/Desktop/LMU/Semester\ 1/Computer\ Programming\ and\ Lab/ps4-lilscolari/movies/scifi
+mv TheSoundOfMusic /c/Users/Camer/OneDrive/Desktop/LMU/Semester\ 1/Computer\ Programming\ and\ Lab/ps4-lilscolari/movies/drama

@@ -1,0 +1,32 @@
+Cameron Scolari
+
+Chapter 10 Notes:
+ - list: sequence of variables (any type)
+ - values in list are elements or items
+ - enclose lists in '[]'
+ - A list within another list is a nested list
+ - lists are mutable: can change elements of a list
+ - list indices are same as string indices
+ - for loop traverses elements of a list
+ - len() returns the number of elements in a list
+ - '+' concatenates lists
+ - '*' repeats a list a given number of times
+ - ':' can slice lists just like strings
+ - list_name.append() adds a new element to the end of the list
+ - list_name.extend() takes a list as an argument and appends each element
+ - list_name.sort() arranges the elements in a list from low to high
+ - sum(list_name) adds up all elements from a list
+ - list_name.pop(index) deletes given index from the list and returns it
+ - list_name.remove(element) deletes the element given (no return value)
+ - del list_name[start:finish] deletes multiple elements
+ - list(string) converts string to a list of characters
+ - string.split() converts a string into a list of words
+ - lists may be equivalent (same elements) but not identical because (not the same object)
+ - accumulator: a variable used in a loop to add up or accumulate a result
+ - reduce: a processing pattern that traverses a sequence and accumulates the elements into a single result
+ - map: a processing pattern that traverses a sequence and performs an operation on each element
+ - filter: a processing pattern that traverses a list and selects the elements that satisfy some criterion
+ - object: something a variable can refer to. An object has a type and value
+ - reference: the association between an object and its value
+ - aliasing: a circumstance where two or more variables refer to the same object
+ - delimiter: a character or string used to indicate where a string should be split

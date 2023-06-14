@@ -1,0 +1,16 @@
+Chapter 18 Reading Notes:
+- Inheritance: define a new class that is a modified version of an existing class.
+- To define a new class that inherits from an existing class, you put the name of the existing class in parentheses
+- A class diagram is a more abstract representation of the structure of a program.
+- Shows individual objects and the relationship between them.
+- Encode: To represent one set of values using another set of values by constructing a mapping between them.
+- Class attribute: An attribute associated with a class object. Class attributes are defined inside a class definition but outside any method.
+- Instance attribute: An attribute associated with an instance of a class
+- Veneer: A method or function that provides a different interface to another function without doing much computation.
+- Parent Class(Superclass): The class from which a child class inherits
+- Child Class(Sub-class): A new class created by inheriting from an existing class
+- IS-A Relationship: A relationship between a child class and its parent class
+- HAS-A Relationship: A relationship between two classes where instances of one class contain references to instances of the other
+- Dependency: A relationship between two classes where instances of one class use instances of the other class, but do not store them as attributes
+- Multiplicity: A notation in a class diagram that shows, for a HAS-A relationship, how many references there are to instances of another class
+- Data Encapsulation: A program development plan that involves a prototype using global variables and a final version that makes the global variables into instance attributes

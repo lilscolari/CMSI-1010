@@ -1,0 +1,11 @@
+*** PS0 Notebook ***
+Part B (Multiline Comment) uses single line comment # instead of multiline comment """ (No Penalty)
+Great job!
+(50 / 50)
+
+*** Glitch UFO ***
+Great job! I like the beam flickering on when it's aligned with the ball
+(50 / 50)
+
+Submitted 2 days early - +2 EC!
+Total Score: 102 / 100
