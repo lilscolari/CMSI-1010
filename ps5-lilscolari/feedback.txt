@@ -1,0 +1,23 @@
+*** PS5 Notes (EC) ***
+Reading notes complete!
+(3 / 0)
+
+*** exponential.py ***
+requests user input ✓
+raises ValueError on negative exponent ✓
+passes test case exponential(2, 3) => 8 ✓
+passes test case exponential(3, 3) => 27 ✓
+passes test case exponential(4, 4) => 256 ✓
+Great job!
+(50 / 50)
+
+*** flower.ipynb ***
+Nice flower!
+(50 / 50)
+
+*** towers.py (EC) ***
+No attempt
+(0 / 0)
+
+Submitted 3 days early: +3 EC!
+Total Score: 106 / 100
